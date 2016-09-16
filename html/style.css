@@ -1,0 +1,88 @@
+body{
+	background-color: #f2f2f2;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 75px;
+	font-family: Arial;
+	color: black;
+	border-bottom-color:#668cff; 
+	border-bottom-style: inset;
+	border-width: 2px;
+	margin-bottom: 10px;
+
+}
+marquee{
+	color: #008080;
+}
+#canteenimgdiv{
+	text-align: center;
+	margin-top: 50px;
+}
+#canteenimg{
+	height: 250px;
+	width: 500px;
+    transition-property: all;
+    transition-duration: 2s;
+}
+#canteenimg:hover{
+	height: 500px;
+	width: 1000px;
+}
+#desc{
+	color: #666699;
+	text-indent: 100px;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+	line-height: 20px;
+	text-align: left;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+#menu,#direction,#price{
+	text-align: center;
+	background-color: #808080;
+	color: #FFFFFF;
+}a:link {
+	color: green;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: yellow;
+} 
+table{
+	margin: 0 auto;
+	border: solid;
+}
+th{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border: none;
+}
+td{
+	text-align: center;
+}
+#item{
+	text-align: left;
+}
+.features{
+	text-align: left;
+}
+
+footer{
+	background-color: #333333;
+	color: #FFFFFF;
+	height: 100px;
+}
+footer p{
+	font-size: 20px;
+	padding:  30px;
+}

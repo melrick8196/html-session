@@ -1,3 +1,3 @@
 # html-session
 
-Code which was demonstrated on TFSC's HTML/CSS session on 16th Sept 2016.
+It was a session conducted on 16th September 2016, enabled the member of the free software club learn the basics of web development.
